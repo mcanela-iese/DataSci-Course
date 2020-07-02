@@ -1,1 +1,1 @@
-# DataSci Course
+# Data Science Course
